@@ -1,0 +1,23 @@
+<svg width="32" height="26" viewBox="0 0 32 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 16.9641C3.33333 15.4245 3.33333 11.5755 6 10.0359L12.75 6.13878C15.4167 4.59918 18.75 6.52368 18.75 9.60289V17.3971C18.75 20.4763 15.4167 22.4008 12.75 20.8612L6 16.9641Z" fill="url(#paint0_linear)" fill-opacity="0.72"/>
+<g filter="url(#filter0_b)">
+<rect x="14" width="18" height="23" rx="3" fill="url(#paint1_radial)"/>
+</g>
+<defs>
+<filter id="filter0_b" x="10" y="-4" width="26" height="31" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="-2.5" y1="6.5" x2="27.5" y2="21" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16.1429 11.5) rotate(41.1859) scale(26.1957 41.5475)">
+<stop stop-color="#B1A2A2" stop-opacity="0.15"/>
+<stop offset="0.477411" stop-color="#EFEFEF" stop-opacity="0.383804"/>
+<stop offset="1" stop-color="white" stop-opacity="0.59"/>
+</radialGradient>
+</defs>
+</svg>
